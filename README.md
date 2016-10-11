@@ -12,6 +12,20 @@
 * [bitcore-lib](https://github.com/bitpay/bitcore-lib) - JavaScript Bitcoin library for Node.js and the browser.
 * [kad](https://github.com/kadtools/kad) - Kademlia distributed hash table library for Node.js and the browser.
 * [elliptic](https://github.com/indutny/elliptic) - Fast elliptic-curve cryptography for Node.js and the browser.
+* [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS library for Node.js and the browser.
+* [dat-js](https://github.com/joehand/dat-js) - A library for the [dat](https://github.com/joehand/dat-js) protocol.
+* [storj](https://github.com/storj/core) - Library for interacting with [storj](storj.io)
+
+## Platforms/Services
+
+* [storj](https://storj.io) - Blobstore powered by cryptocurrency micropayments.
+* [dat](https://dat-data.com) - Protocol for sharing large datasets.
+* [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database
+
+## Other Awesome Lists
+
+* [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - A currated list of awesome ipfs stuffs.
+* [awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - Network and protocol libraries for JavaScript.
 
 ## License
 
