@@ -16,8 +16,19 @@
 * [dat-js](https://github.com/joehand/dat-js) - A library for the [dat](https://github.com/joehand/dat-js) protocol.
 * [storj](https://github.com/storj/core) - Library for interacting with [storj](storj.io)
 
+### Go
+
+* [go-ethereum](https://github.com/ethereum/go-ethereum) - Ethereum client.
+* [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go.
+
+### C/C++
+
+* [cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - Ethereum client.
+* [libtorrent](http://www.libtorrent.org/) - A feature complete bittorrent implementation.
+
 ## Platforms/Services
 
+* [Ethereum](https://www.ethereum.org/) - Platform for running applications on shared global infrastructure.
 * [storj](https://storj.io) - Blobstore powered by cryptocurrency micropayments.
 * [dat](https://dat-data.com) - Protocol for sharing large datasets.
 * [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database
