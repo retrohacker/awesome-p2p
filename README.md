@@ -1,6 +1,6 @@
 # Awesome Decentralization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of useful libraries, tools, and resources for building decentralized applications
+> A curated list of useful libraries, tools, and resources for building untrusted decentralized applications
 
 ## Libraries
 
