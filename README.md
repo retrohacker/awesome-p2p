@@ -2,6 +2,17 @@
 
 > A curated list of useful libraries, tools, and resources for building untrusted decentralized applications
 
+## Contents
+
+- [Libraries](#libraries)
+  - [Node.js](#nodejs)
+  - [Go](#go)
+  - [C/C++](#cc)
+- [Platforms/Services](#platformsservices)
+- [Papers](#papers)
+- [Other Awesome Lists](#other-awesome-lists)
+  
+
 ## Libraries
 
 > This section is broken out by programming language
