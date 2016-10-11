@@ -8,8 +8,9 @@
 
 ### Node.js
 
-* [Webtorrent](https://github.com/feross/webtorrent) - A streaming torrent client for Node.js and the browser
+* [webtorrent](https://github.com/feross/webtorrent) - A streaming torrent client for Node.js and the browser
 * [bitcore-lib](https://github.com/bitpay/bitcore-lib) - A pure and powerful JavaScript Bitcoin library for Node.js and the browser
+* [kad](https://github.com/kadtools/kad) - Kademlia distributed hash table library for Node.js and the browser
 
 ## License
 
