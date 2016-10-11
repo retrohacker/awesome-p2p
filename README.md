@@ -1,6 +1,6 @@
 # Awesome Decentralization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of useful libraries, tools, and resources for building untrusted decentralized applications
+> A curated list of useful libraries, tools, and resources for building untrusted decentralized applications.
 
 ## Contents
 
@@ -15,7 +15,7 @@
 
 ## Libraries
 
-> This section is broken out by programming language
+> This section is broken out by programming language.
 
 ### Node.js
 
@@ -42,7 +42,7 @@
 * [Ethereum](https://www.ethereum.org/) - Platform for running applications on shared global infrastructure.
 * [storj](https://storj.io) - Blobstore powered by cryptocurrency micropayments.
 * [dat](https://dat-data.com) - Protocol for sharing large datasets.
-* [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database
+* [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database.
 
 ## Papers
 
