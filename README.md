@@ -2,6 +2,15 @@
 
 > A curated list of useful libraries, tools, and resources for building decentralized applications
 
+## Libraries
+
+> This section is broken out by programming language
+
+### Node.js
+
+* [Webtorrent](https://github.com/feross/webtorrent) - A streaming torrent client for Node.js and the browser
+* [bitcore-lib](https://github.com/bitpay/bitcore-lib) - A pure and powerful JavaScript Bitcoin library for Node.js and the browser
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
