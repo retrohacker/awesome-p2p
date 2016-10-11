@@ -13,8 +13,8 @@
 * [kad](https://github.com/kadtools/kad) - Kademlia distributed hash table library for Node.js and the browser.
 * [elliptic](https://github.com/indutny/elliptic) - Fast elliptic-curve cryptography for Node.js and the browser.
 * [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS library for Node.js and the browser.
-* [dat-js](https://github.com/joehand/dat-js) - A library for the [dat](https://github.com/joehand/dat-js) protocol.
-* [storj](https://github.com/storj/core) - Library for interacting with [storj](storj.io)
+* [dat-js](https://github.com/joehand/dat-js) - Library for the dat protocol.
+* [storj](https://github.com/storj/core) - Library for interacting with storj.
 
 ### Go
 
