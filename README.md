@@ -33,6 +33,12 @@
 * [dat](https://dat-data.com) - Protocol for sharing large datasets.
 * [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database
 
+## Papers
+
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Paper introducing the world to Bitcoin.
+* [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper) - The definitive white paper for Ethereum.
+* [Incentives Build Robustness in BitTorrent](http://www.bittorrent.org/bittorrentecon.pdf) - Definitive paper on Bittorrent.
+
 ## Other Awesome Lists
 
 * [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - A currated list of awesome ipfs stuffs.
