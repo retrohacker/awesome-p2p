@@ -55,6 +55,7 @@
 * [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - A currated list of awesome ipfs stuffs.
 * [awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - Network and protocol libraries for JavaScript.
 * [awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
+* [awesome-webtorrent-clones](https://github.com/DiegoRBaquero/awesome-webtorrent-clones) - Inspirational list of software using WebTorrent
 
 ## License
 
