@@ -53,6 +53,7 @@
 
 ## Other Awesome Lists
 
+* [awesome-dat](https://github.com/clkao/awesome-dat) - A curated list of the dat peer to peer data sharing tool & underlying hypercore replication, and hyperdrive file sharing.
 * [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - A currated list of awesome ipfs stuffs.
 * [awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - Network and protocol libraries for JavaScript.
 * [awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - A list of peer-to-peer resources.
