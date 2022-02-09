@@ -27,6 +27,7 @@
 * [dat-js](https://github.com/joehand/dat-js) - Library for the dat protocol.
 * [storj](https://github.com/storj/core) - Library for interacting with storj.
 * [cachep2p](http://www.cachep2p.com/) - Drop-in script that acts as a P2P CDN, based on WebTorrent.
+* [m-ld](https://m-ld.org/): Library enabling consistent, zero latency read and write of shared information, using JSON-LD and CRDTs.
 
 ### Go
 
