@@ -33,6 +33,7 @@
 
 * [go-ethereum](https://github.com/ethereum/go-ethereum) - Ethereum client.
 * [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go.
+* [noise](https://github.com/perlin-network/noise) - Simple and powerfull P2P library.
 
 ### C/C++
 
