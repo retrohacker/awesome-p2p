@@ -44,6 +44,7 @@
 * [storj](https://storj.io) - Blobstore powered by cryptocurrency micropayments.
 * [dat](https://dat-data.com) - Protocol for sharing large datasets.
 * [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database.
+* [Filebase](https://filebase.com): S3-compatible decentralized object storage platform powered by IPFS, Sia, Skynet and Storj.
 
 ## Papers
 
