@@ -47,6 +47,7 @@
 * [dat](https://dat-data.com) - Protocol for sharing large datasets.
 * [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database.
 * [Filebase](https://filebase.com): S3-compatible decentralized object storage platform powered by IPFS, Sia, Skynet and Storj.
+* [classified-ads](http://katiska.org/classified-ads): - P2P messaging app for public and private messages.
 
 ## Papers
 
