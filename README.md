@@ -44,6 +44,7 @@
 
 * [Ethereum](https://www.ethereum.org/) - Platform for running applications on shared global infrastructure.
 * [storj](https://storj.io) - Blobstore powered by cryptocurrency micropayments.
+* [Polybase](https://polybase.xyz) - A database that understands tokens, wallets & ZK. An open-source decentralized alternative to Firebase.
 * [dat](https://dat-data.com) - Protocol for sharing large datasets.
 * [BigchainDB](https://www.bigchaindb.com/) - Scalable blockchain database.
 * [Filebase](https://filebase.com): S3-compatible decentralized object storage platform powered by IPFS, Sia, Skynet and Storj.
