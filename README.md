@@ -8,6 +8,7 @@
   - [Node.js](#nodejs)
   - [Go](#go)
   - [C/C++](#cc)
+  - [Kotlin](#kotlin)
 - [Platforms/Services](#platformsservices)
 - [Papers](#papers)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -39,6 +40,10 @@
 
 * [cpp-ethereum](https://github.com/ethereum/cpp-ethereum) - Ethereum client.
 * [libtorrent](http://www.libtorrent.org/) - A feature complete bittorrent implementation.
+
+### Kotlin
+
+* [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk): Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ## Platforms/Services
 
